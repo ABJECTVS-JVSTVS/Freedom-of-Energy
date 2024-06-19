@@ -12,7 +12,7 @@ Encourage community collaboration and contributions.
 - Make your changes and improvements.
 - Submit a pull request for review.
 ## License                                                                                                                       
-This project is licensed under the MIT License. See the LICENSE file for more details.
+See the LICENSE file for more details.
 ## An Alien's Plea
 Greetings, Earthlings! I am an anonymous alien who watches with concern as my meager monetary resources slip through my fingers I teach history, so is not much.. Due to extra-galactic laws, I can't interfere directly in human affairs. And since I can't reveal non-existent technology, I'll base this on the book "E.T. Learns to Go to the Pooty." So, after much thoughtful consideration, I’m here to propose a game.
 
